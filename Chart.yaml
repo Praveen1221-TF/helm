@@ -2,4 +2,4 @@ apiVersion: v2
 name: nginx
 version: 1.0.1 # chart version
 description: version upgraded
-appVersion: latest
+appVersion: new
